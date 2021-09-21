@@ -1,0 +1,17 @@
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\bin\Debug\Hospital Automation.exe.config
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\bin\Debug\Hospital Automation.exe
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\bin\Debug\Hospital Automation.pdb
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital Automation.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.Doctor.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.Login.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.Properties.Resources.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital Automation.csproj.GenerateResource.cache
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital Automation.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital Automation.exe
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital Automation.pdb
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.AddPatience.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.AddUser.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.Admin.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.Payment.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.Secretary.resources
+C:\Users\mehmet\source\repos\Hospital Automation\Hospital Automation\obj\Debug\Hospital_Automation.TakeAppointment.resources
